@@ -1,6 +1,7 @@
 insight_id,insight_text,insight_type
-1,"Monthly revenue has shown a concerning downward trend over the last 6 months, culminating in a sharp 83% drop in March 2026 to $1,412.13 from October's $8,342.50. This immediate decline requires urgent investigation.",ai_generated
-2,"Electronics is the clear top-performing category, generating $37,174.62, indicating strong market demand and potential for further optimization or expansion.",ai_generated
-3,"Customer Segment 1 is the most valuable cohort, with an average spend of $216.95 and 7.17 average orders despite being a smaller group of 199 customers. Focus on retaining and increasing engagement with these high-value customers.",ai_generated
-4,"The largest segment, Segment 0 (393 customers), has the lowest average spend ($47.46) and orders (2.39). There's an opportunity to implement strategies to increase their average order value or encourage repeat purchases.",ai_generated
-5,"Immediately investigate the drastic revenue drop in March 2026 (from $6,828.80 in February to $1,412.13 in March) to identify root causes, such as data errors, operational issues, or a significant market shift.",ai_generated
+1,"Monthly revenue shows a concerning decline, culminating in a drastic 74% drop in March 2026 ($1,759.13) compared to February ($6,825.78), posing an immediate and severe business risk.",ai_generated
+2,"Electronics is the clear top-performing category, generating $37,174.62 in revenue, significantly outpacing other categories and highlighting a key strength.",ai_generated
+3,"Segment 1 is the most valuable customer group, with only 199 customers but an exceptional average spend of $216.95 and 7.17 orders, making them crucial for revenue.",ai_generated
+4,"Segment 2 is the largest customer group (479 customers) with a solid average spend of $111.34, representing a significant base for potential upselling or increased engagement.",ai_generated
+5,"Urgently investigate the steep March 2026 revenue decline to identify its cause, whether operational, technical, or market-driven, and formulate immediate corrective actions.",ai_generated
+6,"Develop targeted retention and upsell campaigns for high-value Segment 1 customers, leveraging insights from their purchasing behavior to increase their lifetime value.",ai_generated
